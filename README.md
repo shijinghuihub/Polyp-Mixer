@@ -1,4 +1,4 @@
 # Polyp-Mixer
 Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation
 ## Pre-computed maps
-Google Drive(https://drive.google.com/drive/folders/1iVqsr_RzLot4qbe73cR0D6cjUDd0Auz6?usp=sharing)
+[Google Drive](https://drive.google.com/drive/folders/1iVqsr_RzLot4qbe73cR0D6cjUDd0Auz6?usp=sharing)
